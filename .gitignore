@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Catenary/*.aux
 Catenary/*.lof
 Catenary/*.log
 Catenary/*.gz
 Catenary/*.toc
+=======
+Catenary\*.aux
+*.lof
+*.log
+*.gz
+*.toc
+>>>>>>> 9ca342b076b2ec10c8ef2ef6ccade6c39f2a9336
