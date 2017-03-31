@@ -1,4 +1,4 @@
-*.aux
+Catenary\*.aux
 *.lof
 *.log
 *.gz
