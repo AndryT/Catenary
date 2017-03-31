@@ -1,5 +1,5 @@
-*.aux
-*.lof
-*.log
-*.gz
-*.toc
+Catenary/*.aux
+Catenary/*.lof
+Catenary/*.log
+Catenary/*.gz
+Catenary/*.toc
